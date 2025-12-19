@@ -1,16 +1,24 @@
-## Hi there 👋
+## Hi there 👋 I'm Pranav Raj
 
-<!--
-**pranavrajgali/pranavrajgali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a student from **Hyderabad**, India, exploring the world of Python and Machine Learning.  
 
-Here are some ideas to get you started:
+- Currently learning: Python fundamentals, data analysis, and core ML concepts  
+- Interests: Building small ML projects, experimenting with computer vision, and trying out AI tools  
+- Goals: Become strong in problem solving, work on real-world ML projects, and contribute to open source  
+- Fun fact: I enjoy mixing tech with creativity – from coding to design and editing
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I'm doing right now
+
+- Learning Python and ML step by step through online courses and hands-on mini projects  
+- Practicing with datasets, trying out models, and understanding how they work under the hood  
+
+## Hobbies
+
+- Video editing and exploring cinematography  
+- Creating art and discovering new art styles  
+- Photography and capturing everyday moments  
+
+## How to reach me
+
+- Feel free to connect with me here on GitHub or open an issue/discussion on any repo you find interesting.
+
