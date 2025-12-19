@@ -18,7 +18,3 @@ I'm a student from **Hyderabad**, India, exploring the world of Python and Machi
 - Creating art and discovering new art styles  
 - Photography and capturing everyday moments  
 
-## How to reach me
-
-- Feel free to connect with me here on GitHub or open an issue/discussion on any repo you find interesting.
-
